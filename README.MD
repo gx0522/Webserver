@@ -11,10 +11,16 @@ Linux下C++实现的WEB服务器。
 
 测试网站（阿里云服务器）
 ----
-[Webserver](http://182.92.180.168:9000/)
+
+[阿克曼的Webserver](http://182.92.180.168:9000/)
+
 
 压力测试
 ---
+阿里云服务器（1核2G）
+![](https://tuchuang-1300238575.cos.ap-beijing.myqcloud.com/myblog/%E9%98%BF%E9%87%8C%E4%BA%91%E5%8E%8B%E6%B5%8B.png)
+
+测试机器（虚拟机）配置 4核8G
 ![](https://tuchuang-1300238575.cos.ap-beijing.myqcloud.com/myblog/%E5%8E%8B%E6%B5%8B.png)
 
 运行
